@@ -1,0 +1,11 @@
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\bin\Debug\Controlador.exe.config
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\bin\Debug\Controlador.exe
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\bin\Debug\Controlador.pdb
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\bin\Debug\Modelo.exe
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\bin\Debug\Modelo.pdb
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\bin\Debug\Modelo.exe.config
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\obj\Debug\Controlador.exe
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Controlador\obj\Debug\Controlador.pdb

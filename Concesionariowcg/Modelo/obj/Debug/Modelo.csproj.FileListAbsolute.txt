@@ -1,0 +1,7 @@
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Modelo\bin\Debug\Modelo.exe
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Modelo\bin\Debug\Modelo.pdb
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Modelo\obj\Debug\Modelo.exe
+C:\Users\jeiss\source\repos\Concesionariowcg\Concesionariowcg\Modelo\obj\Debug\Modelo.pdb
